@@ -292,7 +292,7 @@ const app = {
        
 
         this.loadCurrentSong()
-        audio.volume = 0.3
+        
     },
 }
 
