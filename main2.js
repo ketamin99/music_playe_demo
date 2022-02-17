@@ -42,56 +42,56 @@ const app = {
         {
             name: 'GANG GANG',
             singer: 'JACKBOYS, Sheck Wes, Don Toliver, Luxury Tax 50 & Cactus Jack ',
-            path: '/lesson_1/assets/songs/song1.mp3',
-            image: '/lesson_1/assets/img/download.jpg'
+            path: './assets/songs/song1.mp3',
+            image: './assets/img/download.jpg'
         },
         {
             name: 'GATTI',
             singer: 'JACKBOYS, Pop Smoke, Travis Scott',
-            path: '/lesson_1/assets/songs/song2.mp3',
-            image: '/lesson_1/assets/img/download2.jpg'
+            path: './assets/songs/song2.mp3',
+            image: './assets/img/download2.jpg'
         },
         {
             name: 'DIOR',
             singer: 'POP SMOKE',
-            path: '/lesson_1/assets/songs/song3.mp3',
-            image: '/lesson_1/assets/img/download3.jpg'
+            path: './assets/songs/song3.mp3',
+            image: './assets/img/download3.jpg'
         },
         {
             name: 'Chia Cách Bình Yên',
             singer: 'Bùi Anh Tuấn',
-            path: '/lesson_1/assets/songs/song4.mp3',
-            image: '/lesson_1/assets/img/download4.jpg'
+            path: './assets/songs/song4.mp3',
+            image: './assets/img/download4.jpg'
         },
         {
             name: 'Một Thủa Yêu Người',
             singer: 'Vicky Nhung',
-            path: '/lesson_1/assets/songs/song5.mp3',
-            image: '/lesson_1/assets/img/download5.jpg'
+            path: './assets/songs/song5.mp3',
+            image: './assets/img/download5.jpg'
         },
         {
             name: 'Ít Nhưng Dài Lâu Remix',
             singer: 'Đại Mèo',
-            path: '/lesson_1/assets/songs/song6.mp3',
-            image: '/lesson_1/assets/img/download6.jpg'
+            path: './assets/songs/song6.mp3',
+            image: './assets/img/download6.jpg'
         },
         {
             name: 'Chưa Bao Giờ',
             singer: 'Bùi Anh Tuấn',
-            path: '/lesson_1/assets/songs/song7.mp3',
-            image: '/lesson_1/assets/img/download7.jpg'
+            path: './assets/songs/song7.mp3',
+            image: './assets/img/download7.jpg'
         },
         {
             name: 'Chuyện Như Chưa Bắt Đầu',
             singer: 'Bùi Anh Tuấn',
-            path: '/lesson_1/assets/songs/song8.mp3',
-            image: '/lesson_1/assets/img/download8.jpg'
+            path: './assets/songs/song8.mp3',
+            image: './assets/img/download8.jpg'
         },
         {
             name: 'Nơi Tình Yêu Kết Thúc',
             singer: 'Bùi Anh Tuấn',
-            path: '/lesson_1/assets/songs/song9.mp3',
-            image: '/lesson_1/assets/img/download9.jpg'
+            path: './assets/songs/song9.mp3',
+            image: './assets/img/download9.jpg'
         },
     ],
     defineObjectProperties: function(){
